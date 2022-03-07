@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub.https://akshaya-motamarri.github.io/reviewing-a-pull-request/
 
 To play the game:
 1. Go to the **Settings** tab of this repository.
